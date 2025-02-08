@@ -4,3 +4,10 @@ Count<<"my subject is:"<<computer programming ";
 Count<<"my subject is:"<<mathematics ";
 Count<<"my subject is:"<<Islamic study";
 Count<<"my subject is:"<<applied Physics "
+
+Count<<"my subject is:"<<Islamiyat";
+Count<<"my subject is:"<<English";
+Count<<"my subject is:"<<physics";
+Count<<"my subject is:"<<mathematics ";
+Count<<"my subject is:"<<urdu";
+Count<<"my subject is:"<<computer science ";
